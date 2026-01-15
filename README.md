@@ -6,7 +6,9 @@ Department: Computer Science
 Level: 200 
 
 SDLC for Hello World Program
-	1.	Requirement Analysis
+
+
+1.	Requirement Analysis
 The program should display Hello World on the screen.
 
   2.	System Design
