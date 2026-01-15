@@ -1,5 +1,3 @@
-# My-Python-Project-
-
 Name: Olanusi Oluwaseyitan Boluwatife Precious
 
 Matric No: 24/15032
@@ -20,10 +18,10 @@ print("Hello World")
 4. Testing
 Run the program and confirm the output is Hello World.
 
-	5.	Deployment
+5.	Deployment
 Save and run the program in a Python environment.
 
-	6.	Maintenance
+6.	Maintenance
 Modify the message if needed in the future.
 
 
