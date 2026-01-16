@@ -1,31 +1,24 @@
-THE URL LINK: https://github.com/Oluwaseyitan-dot/My-Python-Project-.git
+# SDLC for Hello World Program
 
-Name: Olanusi Oluwaseyitan Boluwatife Precious
+**Name:** Olanusi Oluwaseyitan Boluwatife Precious  
+**Matric No:** 24/15032  
+**Department:** Computer Science  
+**Level:** 200  
 
-Matric No: 24/15032
+**GitHub Repository:**  
+[My Python Project](https://github.com/Oluwaseyitan-dot/My-Python-Project-.git)
 
-Department: Computer Science
-Level: 200 
+---
 
-SDLC for Hello World Program
+## 1. Requirement Analysis
+The program should display **"Hello World"** on the screen.
 
+## 2. System Design
+The system will be implemented using **Python**, utilizing the built-in `print()` function to display the message.
 
-1.	Requirement Analysis
-The program should display Hello World on the screen.
-
-  2.	System Design
-Use Python and the print() function to show the message.
-
-3. Implementation 
+## 3. Implementation
+```python
 print("Hello World")
 
-4. Testing
-Run the program and confirm the output is Hello World.
-
-5.	Deployment
-Save and run the program in a Python environment.
-
-6.	Maintenance
-Modify the message if needed in the future.
 
 
